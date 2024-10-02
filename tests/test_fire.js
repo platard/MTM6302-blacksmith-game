@@ -5,7 +5,7 @@ const assert = require('assert');
 
 try {
   // Load the student's code
-  const code = fs.readFileSync('./main.js', 'utf-8');
+  const code = fs.readFileSync('./blacksmith.js', 'utf-8');
   
   // Set up the sandbox environment
   const sandbox = { console };
