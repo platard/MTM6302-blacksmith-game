@@ -1,9 +1,0 @@
-{
-  "name": "blacksmith-game",
-  "version": "1.0.0",
-  "scripts": {
-      "test": "node tests/test_buy.js && node tests/test_fire.js"
-  },
-  "dependencies": {}
-}
-  
