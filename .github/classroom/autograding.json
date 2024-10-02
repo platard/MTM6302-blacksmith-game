@@ -1,0 +1,17 @@
+{
+    "tests": [
+      {
+        "name": "Test fire() Function",
+        "run": "node test_fire.js",
+        "input": "",
+        "output": "PASS"
+      },
+      {
+        "name": "Test buy() Function",
+        "run": "node test_buy.js",
+        "input": "",
+        "output": "PASS"
+      }
+    ]
+  }
+  
