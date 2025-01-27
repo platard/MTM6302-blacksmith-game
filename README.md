@@ -6,10 +6,10 @@ Blacksmith is a simple text-based game, played entirely in the console.
 
 You are tasked with implementing a text-based game. Use the following commands to interact with the game:
 
+- `fire()`
 - `buy(item)`
 - `make(weapon)`
 - `sell(weapon)`
-- `fire()`
 - `inventory()`
 - `help()`
 
@@ -21,5 +21,5 @@ You are tasked with implementing a text-based game. Use the following commands t
 - **FIRE:** Requires 1 wood.
 
 ## Your Tasks
-1. Implement the commands in `game.js`.
-2. Write JavaScript functions for the game mechanics following the starter code.
+1. Implement the commands in `blacksmith.js`.
+2. Write JavaScript variables and functions for the game mechanics.
