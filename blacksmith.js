@@ -1,9 +1,9 @@
-// Here your variables
-let gold = 10;
-// Add your missing variables here (e.g., ore, wood, swords, axes, fireBurning)
+// Here your variables. 
+// Use this names gold, ore, wood, swords, axes, fireBurning
+
 
 // Here your Functions
-// Define your missing functions here: buy(item), make(weapon), sell(weapon), fire(), inventory()
+// Define your missing functions below: buy(item), make(weapon), sell(weapon), fire(), inventory()
 
 
 
