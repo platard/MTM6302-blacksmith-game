@@ -21,5 +21,4 @@ You are tasked with implementing a text-based game. Use the following commands t
 - **FIRE:** Requires 1 wood.
 
 ## Your Tasks
-1. Create the `blacksmith.js` file.
-2. Write JavaScript variables and functions for the game mechanics.
+1. Write JavaScript variables and functions for the game logic in the `blacksmith.js` file.
